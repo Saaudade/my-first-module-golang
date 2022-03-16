@@ -1,3 +1,3 @@
-module github.com/Saaudade/curso-golang-intermedio
+module github.com/Saaudade/testingmy
 
 go 1.17
